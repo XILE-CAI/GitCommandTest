@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hZA5/acpCnGSd8rC8bbK06OBy6zSP7Wf7rCsf9UqfG/EboegfrfkA8h+bWwSmJxOuczNRoSWY2acHBW5d4nYAA==",
+  "dgSpecHash": "vsZ5U8TMKpK+RJew0JB8z7dMkrHY7nfV9gv4+7E8C3GeNLrP5l83s6b1uEKnAvwpLUZN9hhH2JvwXrD1KAAC6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\CXL\\Desktop\\gitCommandPrac\\HelloWorld\\TestHelloWorld\\TestHelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\CXL\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\CXL\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
+    "C:\\Users\\CXL\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
