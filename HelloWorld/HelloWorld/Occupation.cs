@@ -5,5 +5,7 @@ public enum Occupation
     Doctor,
     Engineer,
     Teacher,
-    Driver
+    Driver,
+    Student,
+    Farmer
 }
